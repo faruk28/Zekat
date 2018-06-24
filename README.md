@@ -1,1 +1,2 @@
-"# Zekat Hesaplama Uygulamas" 
+Zekat Hesaplama UygulamasÄ±
+<img src="http://faruki.netne.net/resimler/zekat.jpg"></img>
