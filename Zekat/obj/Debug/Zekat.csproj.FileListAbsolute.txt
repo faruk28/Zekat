@@ -1,0 +1,30 @@
+C:\Users\farsl\Desktop\zekat\c# zekat\zekat\Zekat\Zekat\bin\Debug\Zekat.exe
+C:\Users\farsl\Desktop\zekat\c# zekat\zekat\Zekat\Zekat\bin\Debug\Zekat.pdb
+C:\Users\farsl\Desktop\zekat\c# zekat\zekat\Zekat\Zekat\obj\Debug\Zekat.csprojAssemblyReference.cache
+C:\Users\farsl\Desktop\zekat\c# zekat\zekat\Zekat\Zekat\obj\Debug\Zekat.Properties.Resources.resources
+C:\Users\farsl\Desktop\zekat\c# zekat\zekat\Zekat\Zekat\obj\Debug\Zekat.csproj.GenerateResource.cache
+C:\Users\farsl\Desktop\zekat\c# zekat\zekat\Zekat\Zekat\obj\Debug\Zekat.csproj.CoreCompileInputs.cache
+C:\Users\farsl\Desktop\zekat\c# zekat\zekat\Zekat\Zekat\obj\Debug\Zekat.exe
+C:\Users\farsl\Desktop\zekat\c# zekat\zekat\Zekat\Zekat\obj\Debug\Zekat.pdb
+C:\Users\farsl\Desktop\zekat\c# zekat\Zekat\Zekat\Zekat\obj\Debug\Zekat.Zekat.resources
+C:\Users\farsl\Desktop\zekat\c# zekat\Zekat\Zekat\Zekat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\farsl\Desktop\zekat\c# zekat\Zekat\Zekat\Zekat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\farsl\Desktop\zekat\c# zekat\Zekat\Zekat\Zekat\obj\Debug\Zekat.csproj.CopyComplete
+C:\Users\farsl\Desktop\zekat\c# zekat\Zekat\Zekat\Zekat\bin\Debug\HtmlAgilityPack.dll
+C:\Users\farsl\Desktop\zekat\c# zekat\Zekat\Zekat\Zekat\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\farsl\Desktop\zekat\c# zekat\Zekat\Zekat\Zekat\bin\Debug\HtmlAgilityPack.xml
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\bin\Debug\Zekat.exe
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\bin\Debug\Zekat.pdb
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\bin\Debug\HtmlAgilityPack.dll
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\bin\Debug\HtmlAgilityPack.xml
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\obj\Debug\Zekat.csprojAssemblyReference.cache
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\obj\Debug\Zekat.Zekat.resources
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\obj\Debug\Zekat.Properties.Resources.resources
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\obj\Debug\Zekat.csproj.GenerateResource.cache
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\obj\Debug\Zekat.csproj.CoreCompileInputs.cache
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\obj\Debug\Zekat.csproj.CopyComplete
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\obj\Debug\Zekat.exe
+C:\Users\farsl\Desktop\zekat\yedek\v7\Zekat\Zekat\obj\Debug\Zekat.pdb
